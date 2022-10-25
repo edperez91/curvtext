@@ -1,3 +1,5 @@
+![Screen Shot of Curve Text Website]()
+
 # Curve Text
 
 ## Circle text JavaScript from [circletype](https://circletype.labwire.ca/)
